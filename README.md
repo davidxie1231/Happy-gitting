@@ -1,5 +1,7 @@
 # Happy-gitting-
 
+Hi! Happy yo git with you!
+
 Just try out the git thing and enjoy gitting!
 
 Here is a cute dolphin:
